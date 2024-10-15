@@ -1,0 +1,6 @@
+classe,precision,recall,f1-score,support
+vazio,1.0,1.0,1.0,20.0
+cheio,1.0,1.0,1.0,20.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,40.0
+weighted avg,1.0,1.0,1.0,40.0
